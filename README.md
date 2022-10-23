@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jingbo Cheng
-- 👀 I’m interested in Quantitative trading
+- 👀 I’m interested in Quantitative finance
 - 🌱 I’m currently learning cs in Peking University
 - 📫 How to reach me wechat: 18686370855
 

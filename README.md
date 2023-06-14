@@ -2,6 +2,7 @@ I'm a sophomore student in Peking University, major in computer science. I'am wo
 medium-frequency deep learning models for the A-share market.
 
 reach me:
+
 wechat: 18686370855
 
 linkedin: [linkedin](https://www.linkedin.com/in/jingbo-cheng-a661a3252/)

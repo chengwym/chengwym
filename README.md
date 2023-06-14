@@ -1,7 +1,6 @@
 I'm a sophomore student in Peking University, major in computer science. I'am working at a hedge fund, developing 
 medium-frequency deep learning models for the A-share market.
 
-reach me:
 
 wechat: 18686370855
 

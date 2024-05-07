@@ -1,6 +1,4 @@
-I'm a sophomore student in Peking University, major in computer science. I'am working at a hedge fund, developing 
-medium-frequency deep learning models for the A-share market.
-
+I am a quantitative researcher specializing in mid-frequency alpha strategies across stocks, futures, and convertible bonds, ranging from minute to daily frequencies.
 
 wechat: 18686370855
 
